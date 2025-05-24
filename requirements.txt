@@ -1,2 +1,3 @@
-Flask
+flask
 rembg
+flask-cors
